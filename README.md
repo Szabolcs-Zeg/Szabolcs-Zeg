@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Szabolcs-Zeg
 - 👀 I’m interested in the front and development
-- 🌱 I’m currently learning html, css, js. (and english is a foreign language)
+- 🌱 I’m currently learning html, css, js. (and english as a foreign language)
 
 
 <!---
